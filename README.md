@@ -1,6 +1,6 @@
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
-![Last Commit]([https://img.shields.io/github/last-commit/[username]/cse103-lab-LAB3](https://github.com/vivekbhardwaj80504-hub))
+![Last Commit](https://img.shields.io/github/last-commit/vivekbhardwaj80504-hub/cse103-lab-LAB3](https://github.com/vivekbhardwaj80504-hub))
 
 ![Language](https://img.shields.io/badge/language-Python-blue)
 
